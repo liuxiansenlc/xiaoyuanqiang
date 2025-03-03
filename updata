@@ -1,0 +1,11 @@
+{
+
+       "version": "1.0.0",
+
+       "forceUpdate": false,
+
+       "updateUrl": "https://example.com/update.apk",
+
+       "message": "请更新"
+
+     }
